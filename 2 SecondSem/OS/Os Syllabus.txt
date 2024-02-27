@@ -1,0 +1,31 @@
+UNIT-I:
+1) Operating system: Introduction, computer system organisation and architecture, operating system structure and functions. 
+2) Management: Process, Memory and Storage.
+3) System structures: Operating system Services, system calls & Types of system call. 
+4) Process scheduling: Introduction. Scheduling algorithms First Come First served scheduling, Shortest job first scheduling, Priority scheduling. Round Robin scheduling
+
+Unit-II:
+1) Memory management: Introduction, swapping, contigous memory allocation, paging, segmentation, Segmentation with paging. 
+2) I/O Management: 1/0 hardware, I/O Buffering, Disk I/O, Raid, Disk Cache.
+3) File Management: File Management system, File Accessing Methods, File Directories, File Allocation Methods, File Space Management, Disk Space Management.
+
+UNIT-III:
+1) Linux OS: Introduction, Logging In and Logging Out, Anatomy of Linux OS, Directory Structure, /usr Directory, File Types.
+2) Commands: Basic Syntax for a command, Home Directory, Is, mkdir, rmdir, stat, cat, rm,mv, cp. 
+3) Editor: Vi editor.
+4) System: Simple Backup, gzip, gunzip, tar.
+
+UNIT-IV:
+1) Working with Processes: Types of processes, ps Command, Creating process, killing process, free command and top utility. 
+2) Managing Disk Space: df, du commands, Creating Additional Free Disk Space, Locating Unused Files, Setting System Clock.
+3) Communication Utilities: who, who am i, finger, mesg, write, wall, talk.
+
+Reference Books:
+
+1. Operating Systems by P. Balakrishna Prasad [Scitech Publication]
+2. Operating System Concepts: Silbershatz, Galvin, Gagne (Addision Education)
+3. Operating Systems - H.M. Deitel - Addision Wesley.
+4. Operating Systems- John J. Donoven.
+6. Modern Operating Systems : Tenenenbaum. (Pearson Education) 
+8. SAMS Teach Yourself Linux by Craig and Coletta Witherspoon.[Techmedia]
+9. LINUX complete reference by Richard Peterson.

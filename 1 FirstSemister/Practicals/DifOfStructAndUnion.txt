@@ -1,0 +1,23 @@
+Keyword
+STRUCTURE : The keyword struct is used to define a structure
+UNION : The keyword union is used to define a union.
+
+Size
+STRUCTURE : When a variable is associated with a structure, the compiler allocates the memory for each member. The size of structure is greater than or equal to the sum of sizes of its members.
+UNION :  when a variable is associated with a union, the compiler allocates the memory by considering the size of the largest memory. So, size of union is equal to the size of largest member.
+
+Memory
+STRUCTURE : Each member within a structure is assigned unique storage area of location.
+UNION : Memory allocated is shared by individual members of union.
+
+Value Altering
+STRUCTURE : Altering the value of a member will not affect other members of the structure.
+UNION : Altering the value of any of the member will alter other member values.
+
+Accessing members
+STRUCTURE : Individual member can be accessed at a time.
+UNION : Only one member can be accessed at a time.
+
+Initialization of Members
+STRUCTURE : Several members of a structure can initialize at once.
+UNION : Only the first member of a union can be initialized.

@@ -1,0 +1,27 @@
++--------+-------------+------------------+-----------------------------+----------------------+---------+--------+----------+
+| Sr.No. | Seat Number |       PRM        |         Student Name        | Exam Appearence Type |  Medium | Gender | Category |
++--------+-------------+------------------+-----------------------------+----------------------+---------+--------+----------+
+|   1    |    678217   | 2021016600072654 |  AASHITOSH SURESH GAJBHIYE  |       Fresher        | English | Male   |    SC    |
+|   2    |    678218   | 2021016600703731 |  ABHISHEK SANTOSH WADICHAR  |       Fresher        | English |  Male  |   OBC    |
+|   3    |    678219   | 2021016600067734 |   ADARSH RAJKUMAR SOMKUWAR  |       Fresher        | English |  Male  |    SC    |
+|   4    |    678220   | 2021016600102326 |    ADESH GAUTAM LOKHANDE    |       Fresher        | English |  Male  |    SC    |
+|   5    |    678221   | 2021016600705401 |     ASHISH ROOPLAL KADWE    |       Fresher        | English |  Male  |   OBC    |
+|   6    |    678222   | 2021016600103322 |    BHAVESH ANIL KHANORKAR   |       Fresher        | English |  Male  |   OBC    |
+|   7    |    678223   | 2021016600061865 | CHANDRABHAN RAMPRASAD UIKEY |       Fresher        | English |  Male  |    ST    |
+|   8    |    678224   | 2021016600094827 |   DEEPAK TAHALSINGH THAKRE  |       Fresher        | English |  Male  |   OBC    |
+|   9    |    678225   | 2021016600101443 |   HARSHAL VILASRAO SHENDE   |       Fresher        | English |  Male  |   OBC    |
+|   10   |    678226   | 2021016600142923 | HEMANT PREMNARAYAN VAISHNAV |       Fresher        | English |  Male  |  NT(1)   |
+|   11   |    678227   | 2021016600310212 |    HIMANSHU VIKAS URKUNDE   |       Fresher        | English |  Male  |   OBC    |
+|   12   |    678228   | 2021016600701651 |    MITALI PRAKASH DEOGADE   |       Fresher        | English | Female |   OBC    |
+|   13   |    678229   | 2021016600722507 |   NISHADH BHAGWAN BORIKAR   |       Fresher        | English |  Male  |   SBC    |
+|   14   |    678230   | 2021016600012536 |    NIMKAR PIYUSH PRAKASH    |       Fresher        | English |  Male  |   OBC    |
+|   15   |    678231   | 2021016600088726 |  PRACHI CHANDRAKANT BHOYAR  |       Fresher        | English | Female |   SBC    |
+|   16   |    678232   | 2021016600133994 |  PRAJWAL MADHUKAR WADICHAR  |       Fresher        | English |  Male  |   OBC    |
+|   17   |    678233   | 2021016600122331 |   PRATIK MANOJ KSHIRSAGAR   |       Fresher        | English |  Male  |   OBC    |
+|   18   |    678234   | 2021016600043546 |  PREMRAJ PURUSHOTTAM SAKURE |       Fresher        | English |  Male  |   OBC    |
+|   19   |    678235   | 2021016600094584 |   SAKSHI SANTOSH CHOURASIA  |       Fresher        | English | Female |   OBC    |
+|   20   |    678236   | 2021016600154062 |      SHRUTI VIJAY RAUT      |       Fresher        | English | Female |   OBC    |
+|   21   |    678237   | 2021016600174654 |     SUJAL DINESH GHARDE     |       Fresher        | English |  Male  |    SC    |
+|   22   |    678238   | 2021016600722515 |  SWAPNIL SUNIL SHAMBHARKAR  |       Fresher        | English | Male   |    SC    |
+|   23   |    678239   | 2021016600175383 |     TUSHAR JAIRAM BAWANE    |       Fresher        | English |  Male  |    SC    |
++--------+-------------+------------------+-----------------------------+----------------------+---------+--------+----------+

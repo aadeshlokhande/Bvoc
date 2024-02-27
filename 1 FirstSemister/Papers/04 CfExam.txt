@@ -1,0 +1,254 @@
+21 / 02 / 2022
+
+1. The first 128 characters are the same in both the types of ASCII i.e. ASCII-7 and ASCII-8. *
+True
+False
+
+
+2. The addition 1+1 gives 0 as a result. *
+True
+False
+
+
+3. Control Unit acts as the central nervous system of the computer. *
+True
+False
+
+
+4. Who is the father of Computers? *
+James Gosling
+Charles Babbage
+Dennis Ritchie
+Bjarne Stroustrup
+
+
+5. Which of the following is the smallest unit of data in a computer? *
+Bit
+KB
+Nibble
+Byte
+
+
+6. Which of the following is not a decimal number? *
+114
+43.47
+99.9A
+10101
+
+
+7. The value of radix in binary number system is _____. *
+2
+8
+10
+1
+
+
+8. The only language which the computer understands is ______. *
+Assembly Language
+Binary Language
+BASIC
+C Language
+
+
+9. The functions of execution and sequencing are performed by using ______. *
+Input Signals
+Output Signals
+Control Signals
+CPU
+
+
+10. The part of a processor which contains hardware necessary to perform all the operations required by a computer: *
+Data path
+Controller
+Registers
+Cache
+
+
+11. Hard Disk is the primary storage device. *
+True
+False
+
+
+12. Flash drive is a compact device of the size of a pen. *
+True
+False
+
+
+13. Which of the following is used in main memory? *
+SRAM
+DRAM
+PRAM
+DDR
+
+
+14. The chip by which both the operation of read and write is performed ____. *
+RAM
+ROM
+PROM
+EPROM
+
+
+15. ROM Stands for ____. *
+Real Office Manager
+Read only Memory
+Role on Memory
+Read only Memorandum
+
+
+16. An Input device is an electromechanical device that accepts data from outside world and translates them into a form a computer can interpret. *
+True
+False
+
+
+17. Which of the following is a type of image scanner? *
+Flat-held
+Hand-led
+Flat-bed
+Compact
+
+
+18. Which of the following is a name of plotter as well as a printer? *
+Flatbed
+Laser
+Drum
+Impact
+
+
+19. Which of the following Printers have a speed in the range of 40-300 characters per second? *
+Inkjet
+Laser
+Dot matrix
+Drum
+
+
+20. VDU stands for ____. *
+Virtual Display Unit
+Visual Display Unit
+Virtual Detection Unit
+Visual Detection Unit
+
+
+21. Del and Deltree commands are same command. *
+True
+False
+
+
+22. To use a computer you need an operating system. *
+True
+False
+
+
+23. Paint application is present in system tools subgroup. *
+True
+False
+
+
+24. When no object has been deleted the desktop does not contain the recycle bin icon. *
+True
+False
+
+
+25. The topmost bar in any application window is the ___. *
+Menu bar
+Toolbar
+Status bar
+Title bar
+
+
+26. __ is used to install software and change different setting of windows. *
+Control Panel
+Shortcut
+Desktop
+None of the above
+
+
+27. A __ can contains files as well as sub folders. *
+File
+Clipboard
+Folder
+Recycle Bin
+
+
+28. Which one of the following is not an internal DOS command? *
+RD
+TIME
+FORMAT
+TYPE
+
+
+29. Which function key will display help in the setup program? *
+F3
+F1
+F5
+F7
+
+
+30. A new printer can be added by printer and faxes option in *
+Control Panel
+File manager
+Dynamic Data Exchange
+None of the above
+
+
+31. Physical or logical arrangement of network is ____. *
+Topology
+Routing
+Networking
+Control
+
+
+32. ___ topology requires a multipoint connection. *
+Star
+Mesh
+Ring
+Bus
+
+
+33. Data communication system spanning states, countries, or the whole world is ____. *
+LAN
+WAN
+MAN
+PAN
+
+
+34. Bus is a type of topology. *
+True
+False
+
+
+35. Bridges divide a large network into smaller segments. *
+True
+False
+
+
+36. Gateways not perform protocol conversion for all seven layers of the OSI Model. *
+True
+False
+
+
+37. An object acting as a gateway for the client side. *
+skeleton
+stub
+remote
+server
+
+
+38. A gateway for the server side object. *
+skeleton
+stub
+remote
+server
+
+
+39. Bluetooth is the wireless technology for *
+local area network
+personal area network
+metropolitan area network
+wide area network
+
+
+40. Infrared Signal can be used for *
+Long range communication
+Short range communication
+Middle range communication
+All of the above

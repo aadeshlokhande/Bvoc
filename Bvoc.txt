@@ -1,2 +1,11 @@
 001
 asdsd
+git init
+git status
+git add .
+git commit -m "first commit"
+git branch -M coder
+git remote add origin git@github.com:aadeshlokhande/Bvoc.git
+git push -u origin coder
+
+

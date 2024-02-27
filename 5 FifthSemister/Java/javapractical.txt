@@ -1,0 +1,16 @@
+step 1: START
+step 2: Initialize a variable 'num' with value 5 (num=5)
+Step 3: Using for loop print number*I 10 times.
+      // for(i=1; i<=10; i++)
+Step 4: Print num*I 10 times where i=0 to 10
+step 5 : STOP
+
+Journalize the following transactions 1992.
+Oct 1: Mr Agrawal started business with cash - Rs. 50,000
+Oct 5: Purchased goods for cash from M/s Krishna Bros. - Rs. 24,000
+Oct 8: Sold goods for cash to Mr. Arvind - Rs. 37,000
+Oct 10: Goods purchased from M/s Radhe & Sons on credit. -Rs. 44,000
+Oct 19: Goods sold to Mrs. Seema on credit. - Rs. 23,000
+Oct 25: Insurance paid in cash - Rs. 1,000
+Oct 28: Purchased furniture in cash - Rs. 4,000
+Oct 31: Machinery purchased on credit from Mumbai Traders. -Rs. 15.200

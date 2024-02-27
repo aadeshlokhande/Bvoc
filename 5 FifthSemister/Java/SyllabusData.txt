@@ -1,0 +1,19 @@
+UNIT - I : 
+INTRODUCTION TO JAVA: Java history, Java features, Java environment,  Java program structure, Java Tokens, Java Statements, Java virtual machine, Constants, Variables, Data Types, Declaration of Variables, Scope of Variables, Symbolic Constants, Type Casting.
+
+UNIT - II : 
+CLASS & OBJECTS: Defining a Class, field declaration, method declaration, Creating Objects, Accessing Class Members, Constructors, Methods Overloading, Static Members, Nesting of Methods.
+
+INHERITANCE: Extending a Class, Overriding Methods, Final Variables and Methods, Final Classes, Finalize Methods, Abstract methods and Classes, Visibility Control.
+INTERFACES : Defining interfaces, extending interfaces, implementing interfaces.
+
+UNIT - III : 
+PACKAGES : Creating Packages, accessing & using a Packages , using System Package, adding a class to packages, hiding Classes.
+
+EXCEPTION HANDLING AND MULTITHREADING: Creating Threads, Extending the Threads Class, Stopping and Blocking a Thread, Life Cycle of a Thread, Using Thread Methods, Thread Exceptions, Thread Priority, Synchronization, Implementing the Runnable Interface, Types of error, exception handling techniques, using exception for Debugging.
+
+UNIT - IV : 
+APPLETS: Introduction to Applets , how applets differ from application, writing an applet. 
+Applets life cycle, creating an executable applet, designing a web page, running the applet, applet tags, adding applet to HTML file ,running the applet passing a parameter to applet, Converting applet to application.
+
+GRAPHIC PROGRAMMING: Introduction to AWT Package, Layout Managers, Handling events on AWT Component, Introduction to swing package, Components & Containers.

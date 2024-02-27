@@ -1,0 +1,278 @@
+18 / 02 / 2022
+
+Q1. Number system, solve the problem. 8888+888+88+888+88=? *
+20840
+10845
+10840
+9873
+
+
+Q2. Number system, solve the problem. 96*796-204*20=? *
+723336
+593000
+72336
+59300
+
+
+Q3. Number system, solve the problem. (37*387+113*113+2*387*113)=? * Means:- Mutilpe *
+11455
+114550
+250000
+none of the above
+
+
+Q4. Which of the following numbers is divisible by 4? *
+67920594
+618703572
+67920694
+618713572
+
+
+Q5. What is the place value of 5 in 3254710? *
+5
+10000
+50000
+54710
+
+
+Q6. The sum of the greatest and smallest number of five digits is *
+11,110
+10,999
+1,09,999
+1,11,110
+
+
+Q7. 194*1904=? *
+3654316
+3632646
+369376
+3623436
+
+
+Q8. Decimal Fraction. 555.05+5.5+5.55+5+0.55? *
+571.65
+634.85
+647.5
+655.75
+
+
+Q9. Decimal Fraction. 0.1*0.01*0.001=? *
+0.0001
+0.00001
+0.000001
+0.0000001
+
+
+Q10. Surds and Indices. *
+Captionless Image
+1/3
+1
+2
+3
+
+
+Q11. The digit in the unit's place in the square root of 15876 is *
+2
+4
+6
+8
+
+
+Q12. What percentage of the number from 1 to 50 have squares that end in the digit 1 ? *
+1
+5
+10
+none of the above
+
+
+Q13. What is a perfect square factor of 26 *
+625
+676
+670
+None of the above
+
+
+Q14. A group of students decided to collect as many paise from each member of group as is the number of members. If the total collection amounts to Rs. 19.29, the number of the member is the group is: *
+1929
+5929
+59929
+none of the above
+
+
+Q15. The least perfect square, which is divisible by each of 21 and 36 *
+213444
+214344
+224344
+None of the above
+
+
+Q16. Which of the following fraction is the largest ? *
+63/80
+31/40
+13/16
+7/8
+
+
+Q17. The greatest number of four digits which is divisible by 15, 25, 40 and 75 is *
+9600
+9400
+9800
+none of the above
+
+
+Q18. If 30a + 30b = 120, what is the average of a and b? *
+1
+2
+3
+4
+5
+
+
+Q19. In Windows operating system to Undo something the following shortcut is used *
+Ctrl+Z
+Ctrl+V
+Ctrl+Z1
+all of the above
+
+
+Q20. Peacock : India :: Bear : ? *
+Russia
+America
+Australia
+England
+
+
+Q21. Architect : Building :: Sculptor : ? *
+Statue
+Stone
+Chisel
+Museum
+
+
+Q22. College : Student :: Hospital : ? *
+Doctor
+Treatment
+Patient
+Nurse
+
+
+Q23. South : North-West :: West : ? *
+North-south
+North-West
+North-East
+South-West
+
+
+Q24. Rupee : India :: Yen : ? *
+Turkey
+America
+England
+Japan
+
+
+Q25. Which number would replace question mark in the series 7, 12, 19, ?, 39. *
+29.0000
+28.0001
+28.00001
+none of the above
+
+
+Q26. 1, 2, 3, 6, 9, 18, ?, 54 *
+27
+28
+29
+27.5
+
+
+Q27. How many terms are there in the series 201,208,215,...,369 ? *
+29
+25
+27
+21
+
+
+Q28. 589654237, 89654237, 8965423, 965423, ? *
+96542
+96542.2
+96442
+96642
+
+
+Q29. Choose the word which is different from the rest. *
+Japan
+India
+Sri Lanka
+New Zealand
+
+
+Q30. The natural residence of every organism is known as: *
+Biome
+Niche
+Habit
+Habitat
+
+
+Q31. A renewable exhaustible natural resource is forest. *
+True
+False
+
+
+Q32. Which is the renewable exhaustible natural energy resource? *
+Coal
+Petroleum
+Kerosene
+Biomass
+
+
+Q33. Plants growing under direct sunlight are known as *
+Heliophytes
+Sciophytes
+Psamophytes
+Dicots
+
+
+Q34. What the only source of energy for all ecosystems on Earth? *
+a) Water
+b) Sun
+c) Plants
+d) Animals
+
+
+Q35. On what are the organisms are dependent on their food? *
+a) Consumers
+b) Producers
+c) Decomposers
+d) Scavengers
+
+
+Q36. In Windows operating system to paste something after cutting the following shortcut is used *
+a) CTRL+C
+b) CTRL+X
+c) CTRL+V
+d) None of these
+
+
+Q37. In Windows operating system to copy something the following shortcut is used *
+a) CTRL+C
+b) CTRL+X
+c) CTRL+V
+d) None of these
+
+
+Q38. In Windows operating system shortcut DELETE is for *
+a) Undo something
+b) Delete something
+c) Paste something
+d) None of these
+
+
+Q39. In Windows operating system shortcut CTRL+A is to *
+a) Select all
+b) Highlight a block of text
+c) Delete something
+d) Paste something
+
+
+Q40. In Windows operating system shortcut Ctrl + B is to Bold highlighted selection. *
+True
+False
