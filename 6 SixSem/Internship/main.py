@@ -1,6 +1,0 @@
-# regarding 
-
-
-
-# sidharth 
-# skill academy 
