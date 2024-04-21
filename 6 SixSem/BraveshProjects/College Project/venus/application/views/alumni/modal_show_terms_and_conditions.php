@@ -1,1 +1,0 @@
-<?php echo $this->db->get_where('about_us', array('about_us_id' => 1))->row()->terms_and_conditions; ?>
