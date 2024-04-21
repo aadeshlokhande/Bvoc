@@ -107,3 +107,6 @@ In developing ICE Computers, we drew from a variety of reputable sources to ensu
 6. Google Form Embedding: We embedded Google Forms into our website by following tutorials from GeeksforGeeks, enabling us to collect data and feedback efficiently.
 
 These resources have been instrumental in our development process, helping us create a functional and user-friendly website for ICE Computers.
+=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=
+slide 11 : thank you 
+Thank you all for being a part of this presentation. Your presence and interest are greatly appreciated, and we are excited about the future of ICE Computers.
