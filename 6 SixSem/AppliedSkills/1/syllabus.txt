@@ -1,0 +1,53 @@
+unit 1 :
+word Processing
+Introduction
+Starting word
+Creating Documant
+Structure of Ms-word window and its application
+mouse and keyboard operations
+designing a document
+formating-selection
+cut
+copy
+paste
+toolbars
+operating on text
+printing
+saving
+opening
+closing of document
+creating a template
+
+unit 2:
+Tables
+borders
+textbox operations
+spelling and grammer check
+mail merge
+envelope and label
+protection of document
+change the view of document
+
+unit 3:
+Powerpoint Presentation :- 
+working with powerpoint window
+standard toolbar
+formatting toolbar
+drawing toolbar
+moving the frame
+inserting clip art
+picture
+slide
+text sliding
+send to back
+
+unit 4:
+entering Data to Graph
+organization chart
+Tables
+design template
+master slide
+animation setting
+saving and  Presentation
+auto content wizard
+package for CD(pack & go feature)
