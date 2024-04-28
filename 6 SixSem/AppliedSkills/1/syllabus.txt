@@ -1,53 +1,51 @@
-unit 1 :
-word Processing
-Introduction
-Starting word
-Creating Documant
-Structure of Ms-word window and its application
-mouse and keyboard operations
-designing a document
-formating-selection
-cut
-copy
-paste
-toolbars
-operating on text
-printing
-saving
-opening
-closing of document
-creating a template
+unit 1
+Introduction in word Processing
+Starting word in word Processing
+Creating Documant in word Processing
+Structure of Ms-word window and its application in word Processing
+mouse and keyboard operations in word Processing
+designing a document in word Processing
+formating-selection in word Processing
+cut in word Processing
+copy in word Processing
+paste in word Processing
+toolbars in word Processing
+operating on text in word Processing
+printing in word Processing
+saving in word Processing
+opening in word Processing
+closing of document in word Processing
+creating a template in word Processing
 
-unit 2:
-Tables
-borders
-textbox operations
-spelling and grammer check
-mail merge
-envelope and label
-protection of document
-change the view of document
+unit 2
+Tables in word Processing
+borders in word Processing
+textbox operations in word Processing
+spelling and grammer check in word Processing
+mail merge in word Processing
+envelope and label in word Processing
+protection of document in word Processing
+change the view of document in word Processing
 
-unit 3:
-Powerpoint Presentation :- 
-working with powerpoint window
-standard toolbar
-formatting toolbar
-drawing toolbar
-moving the frame
-inserting clip art
-picture
-slide
-text sliding
-send to back
+unit 3
+working with powerpoint window in Powerpoint Presentation
+standard toolbar in Powerpoint Presentation
+formatting toolbar in Powerpoint Presentation
+drawing toolbar in Powerpoint Presentation
+moving the frame in Powerpoint Presentation
+inserting clip art in Powerpoint Presentation
+picture in Powerpoint Presentation
+slide in Powerpoint Presentation
+text sliding in Powerpoint Presentation
+send to back in Powerpoint Presentation
 
-unit 4:
-entering Data to Graph
-organization chart
-Tables
-design template
-master slide
-animation setting
-saving and  Presentation
-auto content wizard
-package for CD(pack & go feature)
+unit 4
+entering Data to Graph in Powerpoint Presentation
+organization chart in Powerpoint Presentation
+Tables in Powerpoint Presentation
+design template in Powerpoint Presentation
+master slide in Powerpoint Presentation
+animation setting in Powerpoint Presentation
+saving and  Presentation in Powerpoint Presentation
+auto content wizard in Powerpoint Presentation
+package for CD(pack & go feature) in Powerpoint Presentation
