@@ -1,0 +1,24 @@
+Introduction To  ms-Excel in 3 lines
+Navigating in Excel in 3 lines
+Excel Toolbars and Operations
+Formatting Features Copying Data Between Worksheets  in Excel in 3 lines
+Entering and Editing Cell Entries in Excel in 3 lines
+Creation of Charts in Excel in 3 lines
+Editing and Formatting Charts in Excel in 3 lines
+Working with Multiple Spreadsheets: 1) Working with Sheet Tabs Retrieve, 2)Data from Other Workbooks in Excel in 3 lines
+Goal Seek in Excel in 3 lines
+Auditing in Excel in 3 lines
+Linking in Excel in 3 lines
+Workbook in Excel in 3 lines
+Database in Excel (Auto Filter, Advanced Filter, Sort, Form) in Excel in 3 lines
+Mathematical, Statistical and Financial Functions in Excel in 3 lines 
+Introduction to database management system in Access in 3 lines
+fields in Access in 3 lines
+records in Access in 3 lines
+creating database in Access in 3 lines
+tables in Access in 3 lines
+defining table using datatypes in Access in 3 lines
+entering data into table in Access in 3 lines
+closing and reopening database in Access in 3 lines
+Unit- IV: Database Administrator (DBA) and its role in Access in 3 lines
+write 10 diffrence DBMS Vs RDBMS in shorts
