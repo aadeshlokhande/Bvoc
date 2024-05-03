@@ -1,0 +1,27 @@
+Systems approach in MIS Systems
+characteristics in MIS Systems
+Types of Systems in MIS system
+Elements  in MIS System
+input in MIS System
+Output in MIS System
+environment in MIS System
+Boundary Interface in MIS System
+Feedback & Control in MIS System
+Systems Life Cycle in 
+management Information System (MIS) 
+Transaction Processing System (TPS)
+Office Automation System (OAS) 
+decision Support System (DSS)
+Value of information
+information life cycle
+Data Vs Information
+Components of MIS
+characteristics of MIS
+System Analysis & Design: System development life cycle
+System Analysis & Design: Modeling the required system
+System Analyst: Duties and roles
+Entity Relationship Diagram
+entity life history
+Energy citation database
+user view of processing
+modeling input output data

@@ -33,7 +33,7 @@ Excel offers a wide range of tools and operations to help you work with data eff
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 
 Question: 
-Formatting Features Copying Data Between Worksheets  in Excel in 3 lines
+Formatting Features Copying Data Between Worksheets in Excel in 3 lines
 answer :
 To copy data between worksheets in Excel, you can:
 
