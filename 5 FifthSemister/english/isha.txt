@@ -1,0 +1,247 @@
+Q 1)  Enter any no.and write a program to check whether the given no. is even or odd
+
+#include <stdio.h>
+
+int main() {
+    int number;
+
+    // Input from the user
+    printf("Enter an integer: ");
+    scanf("%d", &number);
+
+    // Check if the number is divisible by 2
+    if (number % 2 == 0) {
+        printf("%d is even.\n", number);
+    } else {
+        printf("%d is odd.\n", number);
+    }
+
+    return 0;
+}
+
+==================================================
+
+Q2) Enter any No.and write a program in C to calculate to factorial given No
+
+#include <stdio.h>
+
+// Function to calculate the factorial of a number
+int factorial(int n) {
+    if (n == 0 || n == 1) {
+        return 1;
+    } else {
+        return n * factorial(n - 1);
+    }
+}
+
+int main() {
+    int number;
+
+    // Input from the user
+    printf("Enter a non-negative integer: ");
+    scanf("%d", &number);
+
+    // Check for a non-negative integer
+    if (number < 0) {
+        printf("Factorial is not defined for negative numbers.\n");
+    } else {
+        // Calculate and print the factorial
+        printf("Factorial of %d is %d.\n", number, factorial(number));
+    }
+
+    return 0;
+}
+
+============================================================
+
+Q3) WAPC to calculate whether the given No. is Prime or Not.
+
+#include <stdio.h>
+#include <stdbool.h>
+
+// Function to check if a number is prime
+bool isPrime(int n) {
+    // Corner cases
+    if (n <= 1) {
+        return false;
+    }
+
+    // Check from 2 to the square root of n
+    for (int i = 2; i * i <= n; i++) {
+        if (n % i == 0) {
+            return false; // If n is divisible by any number between 2 and sqrt(n), it is not prime
+        }
+    }
+
+    return true; // If no divisor is found, n is prime
+}
+
+int main() {
+    int number;
+
+    // Input from the user
+    printf("Enter a positive integer: ");
+    scanf("%d", &number);
+
+    // Check if the number is prime
+    if (isPrime(number)) {
+        printf("%d is a prime number.\n", number);
+    } else {
+        printf("%d is not a prime number.\n", number);
+    }
+
+    return 0;
+}
+
+========================================================
+
+Q5) What is structure?
+
+#include <stdio.h>
+
+// Define the structure
+struct student {
+    char name[50];
+    int rollNo;
+    float percentage;
+};
+
+int main() {
+    // Declare a variable of the structure type
+    struct student student1;
+
+    // Input data for the structure members
+    printf("Enter student name: ");
+    scanf("%s", student1.name);
+
+    printf("Enter roll number: ");
+    scanf("%d", &student1.rollNo);
+
+    printf("Enter percentage: ");
+    scanf("%f", &student1.percentage);
+
+    // Display the information
+    printf("\nStudent Information:\n");
+    printf("Name: %s\n", student1.name);
+    printf("Roll Number: %d\n", student1.rollNo);
+    printf("Percentage: %.2f\n", student1.percentage);
+
+    return 0;
+}
+============================================
+
+8) What is File?
+a) File opening fOpen
+b) File closing fClose
+c) Operational Modes.  mode R,W,A,r+,w+,a+.
+answer
+
+A file is a collection of data stored on a storage device, such as a hard drive, solid-state drive, or external storage medium. Files can contain various types of data, including text, images, programs, and more. In programming, files are often used to store and retrieve data.
+
+Now, let's discuss the options you provided:
+
+a) File opening (fopen): This is a function in many programming languages, including C, used to open a file. It returns a file pointer that is used for subsequent operations on the file. The fopen function typically takes two arguments: the name of the file and the mode in which to open the file (read, write, etc.).
+
+b) File closing (fclose): After opening and performing operations on a file, it's important to close the file using the fclose function. This ensures that resources associated with the file are released, and changes made to the file are saved.
+
+c) Operational Modes ("r", "w", "a", "r+", "w+", "a+"): These are modes used when opening a file to specify the type of operations that can be performed on the file.
+
+"r": Read mode. Opens the file for reading. The file must exist; otherwise, the operation fails.
+"w": Write mode. Opens the file for writing. If the file exists, its contents are truncated; if the file does not exist, a new file is created.
+"a": Append mode. Opens the file for writing at the end. If the file exists, new data is written at the end; if the file does not exist, a new file is created.
+"r+": Read and write mode. Opens the file for both reading and writing. The file must exist.
+"w+": Read and write mode. Opens the file for both reading and writing. If the file exists, its contents are truncated; if the file does not exist, a new file is created.
+"a+": Read and append mode. Opens the file for both reading and writing. If the file exists, new data is written at the end; if the file does not exist, a new file is created.
+These modes allow you to control how you interact with a file in terms of reading, writing, and appending data.
+
+============================================================
+
+8) What is function.Explain it's subtypes
+
+In programming, a function is a self-contained block of code that performs a specific task. Functions allow you to organize your code into modular and reusable units. A function typically takes some input (parameters or arguments), processes it, and returns a result. In addition to improving code organization, functions also enhance code readability, maintainability, and reusability.
+
+Here are some common subtypes or categories of functions:
+
+1. **Built-in Functions:**
+   - These functions are provided by the programming language or its standard library.
+   - Examples include `printf` and `scanf` in C, `len` in Python, and `Math.random` in JavaScript.
+
+2. **User-Defined Functions:**
+   - Programmers create these functions based on the requirements of their programs.
+   - User-defined functions enhance code modularity and reusability.
+   - Example in C:
+     ```c
+     // Function declaration
+     int add(int a, int b);
+
+     // Function definition
+     int add(int a, int b) {
+         return a + b;
+     }
+     ```
+
+3. **Recursive Functions:**
+   - These are functions that call themselves either directly or indirectly.
+   - Example in C:
+     ```c
+     int factorial(int n) {
+         if (n <= 1) {
+             return 1;
+         } else {
+             return n * factorial(n - 1);
+         }
+     }
+     ```
+
+4. **Pure Functions:**
+   - A pure function is a function where the output is determined only by its input parameters, without observable side effects.
+   - Pure functions are easier to reason about and test.
+   - Example in Python:
+     ```python
+     def square(x):
+         return x * x
+     ```
+
+5. **Impure Functions:**
+   - Impure functions may have side effects, such as modifying a global variable or printing to the console.
+   - Example in JavaScript:
+     ```javascript
+     let globalVar = 10;
+
+     function impureFunction(x) {
+         globalVar += x;
+         console.log(globalVar);
+     }
+     ```
+
+6. **First-Class Functions:**
+   - In languages that support first-class functions, functions are treated as first-class citizens.
+   - This means functions can be passed as arguments to other functions, returned from functions, and assigned to variables.
+   - Example in JavaScript:
+     ```javascript
+     const add = (a, b) => a + b;
+
+     const operate = (func, a, b) => func(a, b);
+
+     console.log(operate(add, 3, 4)); // Outputs 7
+     ```
+
+7. **Anonymous Functions (Lambda Functions):**
+   - These are functions without a name.
+   - Commonly used for short, one-time tasks.
+   - Example in Python:
+     ```python
+     add = lambda x, y: x + y
+     ```
+
+8. **Higher-Order Functions:**
+   - Higher-order functions either take one or more functions as arguments or return a function as a result.
+   - Example in JavaScript:
+     ```javascript
+     const multiplyBy = (factor) => (num) => num * factor;
+
+     const double = multiplyBy(2);
+     console.log(double(5)); // Outputs 10
+     ```
+
+These subtypes illustrate the versatility of functions in programming and how they can be adapted to various programming paradigms and styles.

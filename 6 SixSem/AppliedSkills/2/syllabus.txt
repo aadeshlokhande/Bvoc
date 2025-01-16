@@ -1,0 +1,6 @@
+Bachelor of Vocation (B. Voc) General Education Component (SEMESTER-VI) Paper — II Applied Computer Skill-II 
+
+Unit - I: Introduction To Ms-Excel- Navigating, Excel Toolbars and Operations, Formatting Features Copying Data Between Worksheets; Entering and Editing Cell Entries, Creation of Charts, Editing and Formatting Charts, Working with Multiple Spreadsheets: Working with Sheet Tabs, Retrieve Data from Other Workbooks. 
+Unit - II: Goal Seek, Auditing, Linking, Workbook, Database in Excel (Auto Filter, Advanced Filter, Sort, Form), Mathematical, Statistical and Financial Functions in Ms-Excel. 
+Unit -III: MS-Access- Introduction to database management system, fields, records, creating database, tables, defining table using datatypes, entering data into table, closing and reopening database. 
+Unit- IV: Database Administrator (DBA) and its role, DBMS Vs RDBMS. 

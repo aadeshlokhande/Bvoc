@@ -1,0 +1,54 @@
+You may encounter situations, when a block of code needs to be executed several number of times. In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on.
+Programming languages provide various control structures that allow for more complicated execution paths.
+A loop statement allows us to execute a statement or group of statements multiple times. Given below is the general form of a loop statement in most of the programming languages.C programming language provides the following types of loops to handle looping requirements.
+
+we have four types of loops 
+1) for loop
+Executes a sequence of statements multiple times and abbreviates the code that manages the loop variable.
+
+2) nested loops
+You can use one or more loops inside any other while, for, or do..while loop.
+
+3) while loop
+Repeats a statement or group of statements while a given condition is true. It tests the condition before executing the loop body.
+
+4) do...while loop
+It is more like a while statement, except that it tests the condition at the end of the loop body.
+
+FOR LOOP:
+A for loop is a repetition control structure that allows you to efficiently write a loop that needs to execute a specific number of times.
+
+Syntax:
+for (initialize ; condition ; increment/decrement)
+{
+    statements;
+}
+
+Example:
+
+#include <stdio.h>
+ 
+int main () 
+{
+    int num;
+    printf("Enter a number = ");
+    scanf("%d",&num);
+    for(int a = 1; a <=10; a++ )
+    {
+        printf("%d x %d = %d\n", num,a,num*a);
+    }
+    return 0;
+}
+
+Output:
+Enter a number = 5
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50

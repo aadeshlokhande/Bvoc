@@ -1,0 +1,43 @@
+(1) All questions are compulsory and carry equal marks.
+(2) Draw neat and labelled diagrams wherever necessary.
+EITHER
+1. (a) What is linked list ? Give array representation of linked list.
+(b) Write an algorithm to count the number of nodes in the single linked list.
+OR
+(c) Write an algorithm to insert node at the begining of double linked list.
+(d) Write an algorithm to delete the last node of single linked list.
+EITHER
+2. (a) Write an algorithm for Tower of Hanoi problem.
+(b) What is Stack ? Explain Push Operation and Pop operation used in Stack.
+OR
+(c) Explain quick sort method with suitable example.
+(d) Convert the following expression into prefix and postfix notation :
+(i) x y
+x y
+a – b
+a + b
+.
+(ii) ax4
+ + bx3
+ + cx2
+ + dx + e.
+EITHER
+3. (a) Write an algorithm for Insertion sort method.
+(b) Define Priority Queue. Explain the array representation of priority queue in memory.
+OR
+(c) Explain Merge sort method with suitable example.
+(d) What is Queue ? Write a procedure to insert element in queue.
+CLS—13389 1 (Contd.)
+http://www.rtmnuonline.com
+EITHER
+4. (a) Write an algorithm for Depth-First Search (DFS) method.
+(b) What is tree ? Explain representation of Binary tree in memory.
+OR
+(c) What is graph ? Explain representation of Graph in memory.
+(d) Given :
+
+Draw the tree.
+5. (a) Define double linked list.
+(b) Solve the Tower (3, BEG, AUX, END).
+(c) Explain memory representation of Queue.
+(d) Explain Binary Search tree.

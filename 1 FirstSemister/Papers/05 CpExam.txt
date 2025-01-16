@@ -1,0 +1,276 @@
+22 / 02 / 2022
+
+1. ___ is a picture in which the flows of computational paths are depicted. *
+Program
+Algorithm
+Flow chart
+Code
+
+
+2. Among unary operation which operator represents increment? *
+!
+++
+--
+-
+
+
+3. The function scanf is used to _ *
+To take logical decisions
+Input a set of values
+Do mathematical manipulations
+Print a set of values
+
+
+4. The ___ provides pictorial representation of given problem. *
+Array
+Pseudocode
+Flowchart
+Algorithm
+
+
+5. When algorithm to be used? *
+Only with computers
+Only when programming
+Only with flowcharts
+Any time to design solutions to problems
+
+
+6. Which escape character can be used to begin a new line in C? *
+\a
+\b
+\m
+\n
+
+
+7. What is an Algorithm? *
+A decision
+A Pseudocode
+Step by step instructions used to solve a problem
+A flowchart
+
+
+8. A declaration float a,b; occupies _ of memory *
+8 bytes
+16 bytes
+1 byte
+4 bytes
+
+
+9. The _ chars have values from -128 to 127. *
+signed
+unsigned
+none
+long
+
+
+10. What will be the output of the expression 11 ^ 5? *
+11
+Non of the above
+5
+6
+
+
+11. The _ is used to break out of the case statements. *
+continue
+default
+break
+case
+
+
+12. Choose a C Conditional Operator from the list. *
+<:
+?:
+:?
+:<
+
+
+13. Which is the correct way to declare a pointer? *
+None of these.
+*int ptr;
+int *ptr;
+int_ptr;
+
+
+14. Choose a statement to use If Else statement in C Language *
+else is compulsory to use with if statement.
+else or else if is optional with if statement.
+else if is compulsory to use with if statement.
+if is not compulsory
+
+
+15. Maximum number of elements in the array declaration int a[5][8] is *
+32
+28
+40
+58
+
+
+16. The operator + in a+=4 means *
+a=a+4
+a=4+4
+a+4=a
+a=4
+
+
+17. What will strcpy() function do? *
+copies the string
+compares the first n characters of the object
+compares the string
+undefined function
+
+
+18. The C language consist of __ number of keywords *
+32
+40
+64
+52
+
+
+19. Which of the following is an invalid if-else statement? *
+if (a){}
+if (if (a == 1)){}
+if (func1 (a)){}
+if ((char) a){}
+
+
+20. Null character is represented by....... *
+\0
+\n
+\e
+\o
+
+
+21. What is the way to suddenly come out of or Quit any Loop in C Language.? *
+leave; statement
+break; statement
+continue; statement
+quit; statement
+
+
+22. What is a C Storage Class.? *
+C Storage decides where to or which memory store the variable.
+C Storage Class decides what is the default value of a variable.
+C Storage Class decides what is the Scope and Life of a variable.
+All the above.
+
+
+23. A function may have any number of return statements each returning same values. *
+True
+False
+
+
+24. A declaration float a, b; occupies _ of memory *
+1 byte
+16 byte
+4 byte
+8 byte
+
+
+25. What are the types of data allowed inside a structure.? *
+int, float, double, long double
+char, enum, union
+pointers and Same structure type members
+All the above
+
+
+26. Choose correct statement about Functions in C Language. *
+A Function is a group of c statements which can be reused any number of times.
+Every Function has a return type.
+Every Function may no may not return a value.
+All the above.
+
+
+27. A function which calls itself is called a _ function. *
+Auto Function
+Static Function
+Recursive Function
+Self Function
+
+
+28. Functions can be called either by value or reference *
+False
+True
+
+
+29. What is the keyword used to declare a C file pointer? *
+FILEFP
+file
+FILE
+filefp
+
+
+30. continue statement is used *
+to go to the next iteration in a loop
+come out of a loop
+exit and return to the main function
+restarts iterations from beginning of loop
+
+
+31. Which escape character can be used give tab in C? *
+\a
+\b
+\t
+\m
+
+
+32. Character constants should be enclosed between _ *
+Single quotes
+Double quotes
+Both a and
+None of these
+
+
+33. The size of a String variable is *
+1 byte
+8 bytes
+16 bytes
+None of these
+
+
+34. A pointer is *
+A variable that stores address of an instruction
+A variable that stores address of other variable
+A keyword used to create variables
+None of these
+
+
+35. What are the advantages of arrays? *
+Elements in an array cannot be sorted
+Index of first element of an array is 1
+Easier to store elements of same data type
+Objects of mixed data types can be stored
+
+
+36. FILE is of type __ *
+int type
+char * type
+struct type
+None of the mentioned
+
+
+37. FILE reserved word is? *
+A structure tag declared in stdio.h
+It is a type name defined in stdio.h
+Pointer to the structure defined in stdio.h
+One of the basic datatypes in c
+
+
+38. Which of the following header file is required for strcpy() function? *
+string.h
+strcsspy()
+files.h
+strings.h
+
+
+39. which of the following is not a storage class specifier? *
+volatile
+register
+extern
+auto
+
+
+40. The continue command cannot be used with *
+do
+switch
+for
+while

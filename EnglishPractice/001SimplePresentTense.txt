@@ -1,0 +1,245 @@
+source:https://onlymyenglish.com/100-sentences-of-simple-present-tense/
+
+Affirmative Sentence     :- Subject + Verb1 + Object
+Negative Sentence        :- Subject + helping verb(do/does) + not + Verb1 + Object
+Interrogative Sentence   :- helping verb + s + v1 + o
+
+AS : The thief clears the place.
+NS : The thief does not clear the place
+IS : Does the thief clear the place.
+
+AS : The teacher forgives their students.
+NS : The teacher does not forgive their students
+IS : Does the teacher forgive thair students?
+
+AS : He finishes the race on time.
+NS : He does not finishe the race on time.
+IS : does he finishe the race on time?
+
+AS : She holds my hand in the crowd.
+NS : she does not hold my hand in the crowd.
+IS : does she hold my hand in the crowd?
+
+AS : Sammy invites all of us to the party.
+NS : sammy does not invite all of us to the party.
+IS : does sammy invite all of us to the party?
+
+AS : The actor destroys the shooting area.
+NS : The actor does not destroy the shooting area.
+IS : Does the actor destroy the shotting area?
+
+AS : He involves me in his plan.
+NS : He does not involve me in his plan.
+IS : Does he involve me in his plan?
+
+AS : We develop some software applications.
+NS : We does not develop some software applications.
+IS : 
+
+AS : He accepts the invitation.
+NS :
+IS :
+
+AS : She studies in school
+NS :
+IS :
+
+AS : He lives in Turkey.
+NS :
+IS :
+
+AS : John likes ice creams.
+NS :
+IS :
+
+AS : The course starts on Monday.
+NS :
+IS :
+
+AS : Jimmy drinks water.
+NS :
+IS :
+
+AS : He finishes his dinner.
+NS :
+IS :
+
+AS : My mother takes out the trash.
+NS :
+IS :
+
+AS : I like to talk to my neighbors.
+NS :
+IS :
+
+AS : The driver drives the car very fast.
+NS :
+IS :
+
+AS : I can explain you in detail.
+NS :
+IS :
+
+AS : The Businessman accepts the deal.
+NS :
+IS :
+
+AS : I forgive you this time.
+NS :
+IS :
+
+AS : I do believe in you.
+NS :
+IS :
+
+AS : I want this car as my birthday gift.
+NS :
+IS :
+
+AS : We do like each other.
+NS :
+IS :
+
+AS : The food looks so delicious.
+NS :
+IS :
+
+AS : We love how to play cricket in off lectures.
+NS :
+IS :
+
+AS : Robin and his friends bunk the class.
+NS :
+IS :
+
+AS : We arrange a party.
+NS :
+IS :
+
+AS : My sister cooks delicious food.
+NS :
+IS :
+
+AS : My friends and I go for the morning walk.
+NS :
+IS :
+
+AS : Columbus discovers America.
+NS :
+IS :
+
+AS : He plays carrom very well.
+NS :
+IS :
+
+AS : My friend loves to play basketball.
+NS :
+IS :
+
+AS : Martha goes to school.
+NS :
+IS :
+
+AS : They write a letter to her brother.
+NS :
+IS :
+
+AS : An earthworm aerates the soil.
+NS :
+IS :
+
+AS : The vegetables smell fresh.
+NS :
+IS :
+
+AS : He increases his charges.
+NS :
+IS :
+
+AS : Parents receive the information from the school.
+NS :
+IS :
+
+AS : She improves her skills.
+NS :
+IS :
+
+AS : The farmer works very hard.
+NS :
+IS :
+
+AS : The fisherman sleeps on the boat.
+NS :
+IS :
+
+AS : Eagle flies high in the sky.
+NS :
+IS :
+
+AS : Scientists discover many things.
+NS :
+IS :
+
+AS : He measures water to cook food.
+NS :
+IS :
+
+AS : We meet some strangers on the street.
+NS :
+IS :
+
+AS : They all leave us quickly.
+NS :
+IS :
+
+AS : My father’s stick falls from the ceiling.
+NS :
+IS :
+
+AS : I do love to play cricket.
+NS :
+IS :
+
+AS : Try to avoid drinking and driving.
+NS :
+IS :
+
+AS : A tsunami destroys everything.
+NS :
+IS :
+
+AS : Students fire the bus for some reason.
+NS :
+IS :
+
+AS : The police officer finds the culprit.
+NS :
+IS :
+
+AS : They hide their identity.
+NS :
+IS :
+
+AS : We must contribute something to this organization.
+NS :
+IS :
+
+AS : The file contains some important information.
+NS :
+IS :
+
+AS : We continue to dance after dinner.
+NS :
+IS :
+
+AS : He always corrects me.
+NS :
+IS :
+
+AS : The coach encourages his players before the match.
+NS :
+IS :
+
+AS : Some newcomers join the party in between.
+NS : some does not newcomer join the party in between.
+IS : does some newcomer join the party in between.

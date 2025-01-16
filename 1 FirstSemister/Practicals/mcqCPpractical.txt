@@ -1,0 +1,106 @@
+QUESTIONS
+
+1. Name the loop that executes at least once. *
+For
+If
+do-while
+while
+Other:
+
+2. Function fopen() with the mode "r+" tries to open the file for __ *
+reading and writing
+reading and adding new content
+only for reading
+it works only for directories
+Other:
+
+3. Where to place “f” with a double constant 3.14 to specify it as a float? *
+(float)(3.14)(f)
+(f)(3.14)
+3.14f
+f(3.14)
+
+4. Which one is not a reserve keyword in C Language? *
+auto
+main
+case
+register
+Other:
+
+5. C variable name can start with a ____ *
+Number
+Plus Sign (+)
+Underscore
+Asterisk (*)
+
+6. Prototype of a function means _____ *
+Name of Function
+Output of Function
+Declaration of Function
+Input of a Function
+
+7. _____ is a picture in which the flows of computational paths are depicted. *
+Algorithm
+Program
+Code
+Flow chart
+
+8. Among unary operation which operator represents increment? *
+- -
+++
+!
+-
+
+9. The function scanf is used to ___ *
+To take logical decisions
+Input a set of values
+Print a set of values
+Do mathematical manipulations
+
+10. If the function returns no value then it is called ____ *
+Data type function
+Calling function
+Main function
+Void function
+
+11. Which character is used to indicate the end of the string? *
+Any alphabet
+A
+Null
+None of these
+
+12. Each element of a structure can be _____ *
+Read and printed as a separate data item
+Printed as a separate data item
+Read as a separate data item
+None of these
+
+13. In the for loop structure, which statement is present? *
+Assign statement
+Alter statement
+Both (a) and (b)
+None of these
+
+14. When the computer is waiting for the input? *
+Files are selected
+The cursor is blinking in the VDU screen
+Menu will appear on the screen
+None of these
+
+
+
+ANSWERS:
+1 = do-while 
+2 = reading and writing
+3 = 3.14f
+4 = main 
+5 = underscore 
+6 = Declaration of Function
+7 = flowchart 
+8 = ++
+9 = Input a set of values
+10 = Void function
+11 = Null 
+12 = Read and printed as a separate data item
+13 = Both (a) and (b) 
+14 = The cursor is blinking in the VDU screen

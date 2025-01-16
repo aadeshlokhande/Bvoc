@@ -1,0 +1,31 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Logo</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        {% for menu in data.menus %}
+        <li class="nav-item active {% if menu.child %} dropdown {%endif%}">
+            {% if not menu.child %}
+                <a class="nav-link" href="{{menu.route}}">{{menu.title}} <span class="sr-only">(current)</span></a>
+            {% else %}
+                <a class="nav-link dropdown-toggle" href="{{menu.route}}" id="navbarDropdown-{{menu.title}}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    {{menu.title}}
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown-{{menu.title}}">
+                {% for child_menu in menu.child %}
+                    <a class="dropdown-item" href="{{child_menu.route}}">{{child_menu.title}}</a>
+                {%endfor%}
+            </div>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+      <div class="my-2 my-lg-0">
+          <img src="{{ url_for('static', filename='images/avatar.png') }}" height="40" alt="Your Image">
+        {{session.username|capitalize}}
+      </div>
+    </div>
+  </nav>

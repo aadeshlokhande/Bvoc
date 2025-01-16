@@ -1,0 +1,37 @@
+Basic Terminologies In Tree Data Structure:
+Parent Node: The node which is a predecessor of a node is called the parent node of that node. {2} is the parent node of {6, 7}.
+Child Node: The node which is the immediate successor of a node is called the child node of that node. Examples: {6, 7} are the child nodes of {2}.
+Root Node: The topmost node of a tree or the node which does not have any parent node is called the root node. {1} is the root node of the tree. A non-empty tree must contain exactly one root node and exactly one path from the root to all other nodes of the tree.
+Leaf Node or External Node: The nodes which do not have any child nodes are called leaf nodes. {6, 14, 8, 9, 15, 16, 4, 11, 12, 17, 18, 19} are the leaf nodes of the tree.
+Ancestor of a Node: Any predecessor nodes on the path of the root to that node are called Ancestors of that node. {1, 2} are the ancestor nodes of the node {7}
+Descendant: Any successor node on the path from the leaf node to that node. {7, 14} are the descendants of the node. {2}.
+Sibling: Children of the same parent node are called siblings. {8, 9, 10} are called siblings.
+Level of a node: The count of edges on the path from the root node to that node. The root node has level 0.
+Internal node: A node with at least one child is called Internal Node.
+Neighbour of a Node: Parent or child nodes of that node are called neighbors of that node.
+Subtree: Any node of the tree along with its descendant.
+
+
+
+*****************************************************************************************
+Binary Tree Representation in Data Structures
+The array representation stores the tree data by scanning elements using level order fashion. So it stores nodes level by level. If some element is missing, it left blank spaces for it. The representation of the above tree is like below −
+
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15
+10	5	16	-	8	15	20	-	-	-	-	-	-	-	23
+
+The index 1 is holding the root, it has two children 5 and 16, they are placed at location 2 and 3. Some children are missing, so their place is left as blank.
+
+In this representation we can easily get the position of two children of one node by using this formula −
+child1=2∗parent
+child2=⟮2∗parent⟯+1
+
+To get parent index from child we have to follow this formula −
+parent=[child2]
+
+This approach is good, and easily we can find the index of parent and child, but it is not memory efficient. It will occupy many spaces that has no use. This representation is good for complete binary tree or full binary tree.
+
+Another approach is by using linked lists. We create node for each element.
+
+
+*************************************************************

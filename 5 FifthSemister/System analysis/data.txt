@@ -1,0 +1,59 @@
+Introduction of System
+Introduction of Types of system  
+Components of Computerized Information System
+Duties in Systems Analysts
+Role in Systems Analysts
+SDLC in Systems Analysts
+Identifying Problems in Feasibility Study and Analysis
+Organizing Feasibility Analysis in Feasibility Study and Analysis
+Feasibility Decision in Feasibility Study and Analysis
+Choice of a solution in Feasibility Study and Analysis
+Interviews in Data Collection
+Brain Storming in Data Collection
+Questionnaires in Data Collection
+Document Search, Observation in Data Collection
+Structured tools and techniques of Data analysis on Structured English 
+Structured tools and techniques of Data analysis on Decision Tables and Decision 
+Structured tools and techniques of Data analysis on Trees 
+Structured tools and techniques of Data analysis on Data Flow Diagram 
+Structured tools and techniques of Data analysis on Data Dictionary
+THE NATURE OF SOFTWARE on The Nature of Software 
+THE NATURE OF SOFTWARE on The Changing Nature of Software
+SOFTWARE ENGINEERING on Defining the Discipline 
+SOFTWARE ENGINEERING on The Software Process 
+SOFTWARE ENGINEERING on Software Engineering Practice 
+SOFTWARE ENGINEERING on Software Development Myths
+PROCESS MODELS on Prescriptive Process Models 
+PROCESS MODELS on The Unified Process
+AGILE DEVELOPMENT on What is agility? Agility and the Cost of Change 
+AGILE DEVELOPMENT on What Is an Agile Process? 
+AGILE DEVELOPMENT on Extreme Programming
+UNDERSTANDING REQUIREMENTS on Requirements Engineering 
+UNDERSTANDING REQUIREMENTS on Developing Use case
+DESIGN CONCEPTS on Design within the Context of Software Engineering 
+DESIGN CONCEPTS on Design Concepts 
+DESIGN CONCEPTS on The Design Model
+ARCHITECTURAL DESIGN on Software Architecture 
+ARCHITECTURAL DESIGN on Architectural Genres 
+ARCHITECTURAL DESIGN on Architectural Styles 
+COMPONENT-LEVEL DESIGN on What is a Component? 
+COMPONENT-LEVEL DESIGN on Designing Class-Based Components 
+USER INTERFACE DESIGN on The Golden Rules 
+USER INTERFACE DESIGN on User Interface Analysis and Design
+QUALITY CONCEPTS on What Is Quality? 
+QUALITY CONCEPTS on Software Quality
+SOFTWARE TESTING STRATEGIES on A Strategic Approach to Software Testing 
+SOFTWARE TESTING STRATEGIES on Test Strategies for Conventional Software 
+SOFTWARE TESTING STRATEGIES on Validation Testing 
+SOFTWARE TESTING STRATEGIES on System Testing 
+SOFTWARE TESTING STRATEGIES on The Art of Debugging
+TESTING CONVENTIONAL APPLICATIONS on Software Testing Fundamentals 
+TESTING CONVENTIONAL APPLICATIONS on Internal and External Views of Testing 
+TESTING CONVENTIONAL APPLICATIONS on White-Box Testing 
+TESTING CONVENTIONAL APPLICATIONS on Basis Path Testing 
+TESTING CONVENTIONAL APPLICATIONS on Control Structure Testing 
+TESTING CONVENTIONAL APPLICATIONS on Black-Box Testing 
+SOFTWARE REENGINEERING on Reengineering 
+SOFTWARE REENGINEERING on Business Process Reengineering 
+SOFTWARE REENGINEERING on Reverse Engineering 
+SOFTWARE REENGINEERING on The CMMI

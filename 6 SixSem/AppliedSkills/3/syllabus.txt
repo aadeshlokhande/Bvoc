@@ -1,0 +1,4 @@
+Unit-I: MIS- Systems Concepts: Systems approach, characteristicsTypes of Systems; Elements —input, Output, environment, Boundary Interface, Feedback & Control. 
+Unit II: Systems Life Cycle, MIS, TPS, OAS, DSS,KMS, Value of information, information life cycle, Data Vs Information, Components of MIS, characteristics of MIS. 
+Unit III: System Analysis & Design: System development life cycle. Modeling the required system, System Analyst: Duties and roles. 
+Unit IV: E-R diagrams, ELHs, ECDs, user view of processing, modeling input output data. 

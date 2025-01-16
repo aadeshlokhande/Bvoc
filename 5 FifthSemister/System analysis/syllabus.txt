@@ -1,0 +1,31 @@
+UNIT - I: 
+Introduction: System, Types, Components of Computerized Information System, 
+Systems Analysts: Duties, Role. SDLC. 
+Feasibility Study and Analysis: Identifying Problems, Organizing Feasibility Analysis, Feasibility Decision, Choice of a solution. 
+Data Collection: Interviews, Brain Storming, Questionnaires, Document Search, Observation. 
+Structured tools and techniques of Data analysis: Structured English, Decision Tables and Decision,Trees, Data Flow Diagram, Data Dictionary.
+
+Unit- II:
+THE NATURE OF SOFTWARE: The Nature of Software , The Changing Nature of Software..
+SOFTWARE ENGINEERING: Defining the Discipline, The Software Process, Software 
+Engineering Practice, Software Development Myths.
+PROCESS MODELS: Prescriptive Process Models, The Unified Process.
+AGILE DEVELOPMENT: What is agility? Agility and the Cost of Change, What Is an Agile 
+Process?, Extreme Programming.
+
+Unit -III:
+UNDERSTANDING REQUIREMENTS : Requirements Engineering, Developing Use case.
+DESIGN CONCEPTS: Design within the Context of Software Engineering, Design Concepts, The 
+Design Model.
+ARCHITECTURAL DESIGN: Software Architecture, Architectural Genres, Architectural Styles. 
+COMPONENT-LEVEL DESIGN: What is a Component?, Designing Class-Based Components. 
+USER INTERFACE DESIGN : The Golden Rules, User Interface Analysis and Design.
+QUALITY CONCEPTS: What Is Quality?, Software Quality.
+
+Unit- IV:
+SOFTWARE TESTING STRATEGIES: A Strategic Approach to Software Testing, Test Strategies 
+for Conventional Software, Validation Testing, System Testing, The Art of Debugging.
+TESTING CONVENTIONAL APPLICATIONS: Software Testing Fundamentals, Internal and 
+External Views of Testing, White-Box Testing, Basis Path Testing, Control Structure Testing, Black-Box Testing .
+SOFTWARE REENGINEERING: Reengineering, Business Process Reengineering, Reverse 
+Engineering, The CMMI.

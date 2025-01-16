@@ -1,0 +1,233 @@
+Tense
+
+1) past
+    1) indefinite / simple :-> (ta tha, ti thi, te the, (aa, ee, ae))
+        a) Affirmative Sentence     :- s + v2 + o
+        b) Negative Sentence        :- s + helping verb (did)+ not + v + o
+        c) Interrogative Sentence   :- helping verb (did) + s + v + o 
+            i) maine khana khaya.
+            AS :- I ate food.
+            NS :- I did not eat food.
+            IS :- Did I eat food?
+
+            ii) aapne english sikhi.
+            AS:- you learned english
+            NS:- you did not learn english.
+            IS:- did you learn english?
+
+            iii) ve school gye.
+            AS:- they went to school
+            NS:- they did not go to school.
+            IS:- did they go to school? 
+
+            iv) mai kahani padati thi.
+            AS:- I read story.
+            NS:- I did not read story
+            IS:- did i read story?
+
+    2) continuous :- (raha tha, rahi thi, rahe the)
+        a) Affirmative Sentence     :- s + was/were + (v1 + ing) + o
+        b) Negative Sentence        :- s + was/were + not + (v1 + ing) + o
+        c) Interrogative Sentence   :- was/were + s + (v1 + ing) + o
+            i) mai dukan ja raha tha.
+            AS :- I was going to the market
+            NS :- I was not going to market
+            IS :- was I going to market?
+
+            ii) vah khana kha rahi thi.
+            AS :- she was eating food.
+            NS :- she was not eating food.
+            IS :- was she eating food?
+
+            iii) veh tv dekh rahe the.
+            AS :- they were watching tv
+            NS :- they were not watching tv.
+            IS :- were they watching tv? 
+
+    3) perfect :- (chuka tha, chuki thi, chuke the, (aa tha, ee thi, ae the)) 
+        a) Affirmative Sentence     :- s + had + v3 + o
+        b) Negative Sentence        :- s + had + not + v3 + o
+        c) Interrogative Sentence   :- had + s + v3 + o
+            i) maine khana kha liya tha.
+            AS :- I had eaten food.
+            NS :- I had not eaten food 
+            IS :- had I eaten food?
+
+            ii) vah homework kar chuka tha. 
+            AS :- he had done the homework.
+            NS :- he had not done the homework
+            IS :- had he done the homework?
+
+            iii) veh bat kar chuke the.
+            AS :- they had talked.
+            NS :- they had not talked
+            IS :- had they talked?
+
+    4) perfect continuous - (raha tha, rahi thi, rahe the) (samay ke sath)
+        a) Affirmative Sentence     :- s + had + been + ( v1 + ing ) + o + for/since + time
+        b) Negative Sentence        :- s + had + not + been + ( v1 + ing ) + o + for/since + time
+        c) Interrogative Sentence   :- had + s + been + ( v1 + ing ) + o + for/since + time
+            i) wah 5 bje se aapka intjar kr raha tha.
+            AS :- he had been waiting for you since 5 O'clock. 
+            NS :- He had not been waiting for you sign 5 O'clock.
+            IS :- Had he been waiting for you since 5 O'clock?
+
+            ii) mai 2 sal se python sikha raha tha.
+            AS :- I had been teaching python for 2 years.
+            NS :- I had not been teach python for 2 years.
+            IS :- had I been teaching python for 2 years?
+
+2) present
+    1) indefinite / simple :-> (ta hai, ti hai, te hai, ti hu, ta hu)
+        a) Affirmative Sentence     :- s + v1 + o
+        b) Negative Sentence        :- s + helping verb(do/does)+ not + v1 + o
+        c) Interrogative Sentence   :- helping verb(do/does) + s + v1 + o 
+            i) mai python padata hu.
+            AS :- I teach python.
+            NS :- I do not teach python.
+            IS :- Do I teach python?
+
+            ii) wah gana gati hai.
+            AS :- she sings a song 
+            NS :- she does not sing a song.
+            IS :- Does she sign a song?
+
+            iii) ve bazar jate hai.
+            AS :- They go to the market.
+            NS :- They does not go to the market.
+            IS :- Does they go to the market?
+
+            iv) Meera khana pakati hai.
+            AS:- Meera cooks food.
+            NS:- Meera does not cook food.
+            IS:- Does meera cook food?
+
+            v) Aadesh aur Shree nachte hai.
+            AS:- Aadesh and Shree dance. 
+            NS:- Aadesh and Shree Does Not dance.
+            IS:- Does Aadesh and Shree dance?
+
+    2) continuous :- (raha hai, rahi hai, rahe hai, raha hu, rahi hu)
+        a) Affirmative Sentence     :- s + am/is/are + (v1 + ing) + o
+        b) Negative Sentence        :- s + am/is/are + not + (v1 + ing) + o
+        c) Interrogative Sentence   :- am/is/are + s + (v1 + ing) + o
+            i) mai python sikha raha hu.
+            AS :- I am teaching python
+            NS :- I am not teaching python
+            IS :- am I teaching python
+
+            ii) hum english sikh rahe hai.
+            AS :- we are learning english.
+            NS :- we are not learning english
+            IS :- are we learning english
+
+            iii) meera bazar ja rahi hai.
+            AS :- meera is going to market 
+            NS :- meera is not going to market.
+            IS :- is meera going to market
+
+    3) perfect :- (chuka hai, chuhi hai, chuke hai, chuka hu, chuki hu, chuke ho, chuki ho, (aa hai,ee hai, ae hai))
+        a) Affirmative Sentence     :- s + have/has + v3 + o
+        b) Negative Sentence        :- s + have/has + not + v3 + o
+        c) Interrogative Sentence   :- have/has + s + v3 + o
+            i) maine khana kha liya hai.
+            AS :- I have eaten food.
+            NS :- I have not eaten food  
+            IS :- Have I eaten food?
+
+            ii) tum padh chuki ho.
+            AS :- you have studied.
+            NS :- you have not studied.
+            IS :- have you studied?
+
+            iii) veh aa chuke hai
+            AS :- they have arrived.
+            NS :- they have not arrived.
+            IS :- have they arrived?
+
+            iv) vah gana ga chuki hai.
+            AS :- she has sung a song.
+            NS :- she has not sung a song.
+            IS :- has she sung a song. 
+
+    4) perfect continuous - (raha hai, rahi hai, rahe hai) (samay ke sath)
+        a) Affirmative Sentence     :- s + have/has + been + ( v1 + ing ) + o + for/since + time
+        b) Negative Sentence        :- s + have/has + not + been + ( v1 + ing ) + o + for/since + time
+        c) Interrogative Sentence   :- have/has + s + been + ( v1 + ing ) + o + for/since + time
+            i)  mai 2018 se yah kitab likh raha hu.
+            AS :- I have been writing this book since 2018
+            NS :- I have not been writing this book since 2018
+            IS :- have I been writing this book since 2018
+
+            ii) vah 2 ghante se intjar kr rahi hai.
+            AS :- she has been waiting for two hours.
+            NS :- she has not been watching for two hours.
+            IS :- has she waiting for two hours?
+
+3) future
+    1) indefinite / simple :- (ga, gi, ge)
+        a) Affirmative Sentence     :- s + will/shall + v1 + o
+        b) Negative Sentence        :- s + helping verb (did)+ not + v + o
+        c) Interrogative Sentence   :- helping verb (did) + s + v + o 
+            i) mai python sikhaunga
+            AS :- I will teach python.
+            NS :- I will not teach python
+            IS :- will I teach python?
+
+            ii) wah gana gayegi.
+            AS :- she will sing a song.
+            NS :- she will not sing a song.
+            IS :- Will she sing a song?
+
+
+    2) continuous :- (raha hoga, rahi hogi, rahe hoge, raha hoga, rahi hogi)
+        a) Affirmative Sentence     :- s + will be + (v1 + ing) + o
+        b) Negative Sentence        :- s + will not be + (v1 + ing) + o
+        c) Interrogative Sentence   :- will + s + be + (v1 + ing) + o
+            i) meera padh rahi hogi
+            AS :- meera will be studying
+            NS :- meera will not be studying
+            IS :- will meera be studying?
+
+            ii) tum homework kr rahe hoge.
+            AS :- you will be doing homework
+            NS :- you will not be doing homework.
+            IS :- will you be doing homework?
+
+            iii) mai so raha hoga.
+            AS :- I will be sleeping
+            NS :- I will not be sleeping.
+            IS :- will I be sleeping?
+
+    3) perfect :- (chuka hoga, chuka hoge, chuka honga, chuki hongi)
+        a) Affirmative Sentence     :- s + will + Have + v3 + o
+        b) Negative Sentence        :- s + will not have + v3 + o
+        c) Interrogative Sentence   :- will + s + have + v3 + o
+            i) wah TV dekh chuki hogi. 
+            AS :- she will have watched tv.
+            NS :- she will not have watched tv
+            IS :- will she have watched tv?
+
+            ii) mai so chuka honga.
+            AS :- I shall have slept.
+            NS :- I shall not have slept
+            IS :- shall I have slept?
+
+            iii) veh cricket khel chuke honge.
+            AS :- they will have played cricket
+            NS :- they will not have played cricket
+            IS :- will they have played cricket?
+
+    4) perfect continuous - (raha hoga, rahi hogi, rahe honge, raha honga, rahi hungi) (samay ke sath)
+        a) Affirmative Sentence     :- s + will + have been + ( v1 + ing ) + o + for/since + time
+        b) Negative Sentence        :- s + will + not + have been + ( v1 + ing ) + o + for/since + time
+        c) Interrogative Sentence   :- will + s + have been + ( v1 + ing ) + o + for/since + time
+            i) wah 8 baje se TV dekh rahi hogi
+            AS :- she will have been watching tv since 8 o'clock
+            NS :- she will not have been watching tv since 8 o'clock
+            IS :- will she have been watching tv since 8 o'clock?
+
+            ii) mai aadhe ghante se code likh raha honga.
+            AS :- I will have been writing code for half hour.
+            NS :- I will not have been writing code for half hour
+            IS :- will I have been writing code for half hour?
