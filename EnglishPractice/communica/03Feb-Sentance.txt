@@ -1,0 +1,16 @@
+=<:>=<:>=<:> Sentence <:>=<:>=<:>=
+
+sentence is a grp of words in a perticular sequence in order, with in the rules of grammer which narates a meaningfull msg. a sentence consists of some keywords like noun, pronoun, adjective, verb, adverb, pre-position, conjuction and interjection.
+
+sentence consists of two parts:
+1) subject
+2) predicate
+
+1) Subject :-> subject is what? the sentence is about. while the predicate tells something about the subject. activity of the subject. there are three type of subject.
+    1) first person 
+    2) second person
+    3) third person
+
+2) Predicate :-> predicate is a gramatical term that describe the action of the subject (not the subject)
+    verb : its an action word 
+
